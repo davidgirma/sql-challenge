@@ -1,7 +1,7 @@
 # Module 9 Challenge
 # David Girma
 
-# -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------
 
 ## Background
 
@@ -10,7 +10,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
 
-# -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------
 
 # Instructions
 
@@ -45,7 +45,7 @@ List each employee in the Sales and Development departments, including their emp
 List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
 
-# -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------
 
 # Submission
 
@@ -56,7 +56,7 @@ Before submitting your Challenge assignment, make sure that you’ve done the fo
 - Ensure that your repository has regular commits and a thorough README.md file
 
 
-# -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------
 
 ## References
 
